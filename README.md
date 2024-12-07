@@ -22,8 +22,9 @@ This project provides an interactive dashboard to examine heart disease risk fac
 - **Source data**: Heart Attack Risk Prediction Dataset available [HERE]([https://example.com](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset))
       - **Source File**: heart_attack_prediction_dates.csv
 - Data Formatting and cleaning.
-      - **Unique Values**: 8763
-      - **Data Cleaning**: Data is in a pre-cleaned format and is ready for import into visualization tool, although further field creation can be done.
+
+   - **Unique Values**: 8763
+   - - **Data Cleaning**: Data is in a pre-cleaned format and is ready for import into visualization tool, although further field creation can be done.
 
 ## Customization:
 
